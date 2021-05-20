@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love watching football and F1
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Harkirat Spotify Playing" width="350" />](https://open.spotify.com/user/kz2olxw5bfl8evpmtb24b35i9)
 
@@ -20,7 +20,7 @@
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <img align="left" alt="desii.me.rollin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <img align="left" alt="Dcypher.#0604 | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />
-<br />
+<br /> -->
 
 ### Languages and Tools:
 
@@ -50,7 +50,7 @@
 
 
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -64,3 +64,4 @@
   <img align="left" alt="DCYPHERR's GitHub Stats" src="https://github-readme-stats.DCYPHERR.vercel.app/api?username=DCYPHERR&show_icons=true&hide_border=true" />
 
 </details>
+ -->
