@@ -40,6 +40,13 @@ Hi, I'm Harkirat Singh Makkar, a freshman year at the Thapar Institute of Engine
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?DCYPHERR" frameborder="0"></iframe>
 
 
+
+
+
+
+
+
+
 ![Harkirat's github stats](https://github-readme-stats.vercel.app/api?username=DCYPHERR&show_icons=true&theme=tokyonight&count_private=true)
 
 
