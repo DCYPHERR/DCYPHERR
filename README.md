@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=DCYPHERR)
 <br />
 
-Hi, I'm Harkirat Singh Makkar, a freshman year at the Thapar Institute of Engineering and Technology. I am a Flutter Developer & DSA enthusiast. I am from India, currently, I'm a Core executive member 🙍🏽‍♂️[creative-computing-society](https://github.com/creative-computing-society) . Beside's programming, I love watching football and Formula 1.
+Hi, I'm Harkirat Singh Makkar, a freshman year at the Thapar Institute of Engineering and Technology. I am a Flutter Developer & DSA enthusiast. I am from India, currently I'm a Core executive member at 🙍🏽‍♂️[creative-computing-society](https://github.com/creative-computing-society). I love watching football and Formula 1.
 
   <img align="right"  alt="GIF" src="http://gph.is/1Qi294M" />
 
