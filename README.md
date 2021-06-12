@@ -13,7 +13,8 @@
 
 Hi, I'm Harkirat Singh Makkar, a freshman year at the Thapar Institute of Engineering and Technology. I am a Flutter Developer & DSA enthusiast. I am from India, currently I'm a Core executive member at 🙍🏽‍♂️[creative-computing-society](https://github.com/creative-computing-society). I love watching football and Formula 1.
 
-  <img align="right"  alt="GIF" src="http://gph.is/1Qi294M" />
+  ![github](https://user-images.githubusercontent.com/69909172/121782108-a3152580-cbc5-11eb-869d-dc313c04e4fd.gif)
+
 
 
 
