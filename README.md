@@ -16,7 +16,7 @@ Hi, I'm Harkirat Singh Makkar, a freshman at Thapar Institute of Engineering and
 ![github](https://user-images.githubusercontent.com/69909172/121782108-a3152580-cbc5-11eb-869d-dc313c04e4fd.gif)
 
 
-- 🌱 I’m currently learning Express, Flutter, and Data Structures.
+- 🌱 I’m currently learning Express, Flutter, Django and Data Structures.
 - 👯 I’m looking to collaborate on Flutter projects!
 - 💬 Looking for guidance on Flutter, MERN stack.
 - 📫 Contact Me : harkiratsinghmkkar@yahoo.com
