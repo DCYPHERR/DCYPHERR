@@ -58,7 +58,6 @@ Hi, I'm Harkirat Singh Makkar, a freshman at Thapar Institute of Engineering and
 
 <img src = "(https://github-readme-stats.vercel.app/api?username=DCYPHERR&count_private=true&show_icons=true&theme=radical)">
 
-
   <img width="500" height="300" align="left" alt="Harkirat's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=DCYPHERR&theme=black-ice"/>
 
