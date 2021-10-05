@@ -14,7 +14,7 @@
 Hi, I'm Harkirat Singh Makkar, a sophomore at Thapar Institute of Engineering and Technology. I am a Flutter Developer & DSA enthusiast. I am from India, currently I'm a Core executive member at 🙍🏽‍♂️[creative-computing-society](https://github.com/creative-computing-society). I love watching football and Formula 1.
 
 <!-- ![github](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working.gif) -->
-<img align="right" height="250px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
+<img align="right" height="350px" width="500px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
 
 
 - 🌱 I’m currently learning Flutter, Django and Data Structures.
@@ -60,12 +60,11 @@ Hi, I'm Harkirat Singh Makkar, a sophomore at Thapar Institute of Engineering an
  -->
 
 <img src = "(https://github-readme-stats.vercel.app/api?username=DCYPHERR&count_private=true&show_icons=true&theme=radical)">
-
   <img width="500" height="300" align="left" alt="Harkirat's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=DCYPHERR&theme=black-ice"/>
 
-  <img width="1500" height="auto" align="center" alt="Harkirat's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=DCYPHERR&row=1&column=7&theme=darkhub&margin-w=15e" />
+<!--   <img width="1500" height="auto" align="center" alt="Harkirat's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=DCYPHERR&row=1&column=7&theme=darkhub&margin-w=15e" /> -->
   
 <!--   <img width="1500" height="auto"  alt="Harkirat's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=DCYPHERR&row=1&column=7&theme=darkhub&margin-w=15e" /> -->
