@@ -1,72 +1,24 @@
-### Hi there, I'm Harkirat - aka [DCYPHERR] 👋
-<br/>
-<a href="https://linkedin.com/in/harkirat-singh-makkar/">
-  <img align="left" alt="Harkirat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
-</a>
+## Hi, I'm Harkirat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a href="https://www.instagram.com/desii.me.rollin/">
-  <img align="left" alt="Harkirat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" rel="noopener noreferrer"/>
-</a>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DCYPHERR" alt="DCYPHERR" /> </p>
 
-![](https://komarev.com/ghpvc/?username=DCYPHERR)
-<br />
+<br>
 
-Hi, I'm Harkirat Singh Makkar, a sophomore at Thapar Institute of Engineering and Technology. I am a Flutter Developer & DSA enthusiast. I am from India, currently I'm a Core executive member at 🙍🏽‍♂️[creative-computing-society](https://github.com/creative-computing-society). I love watching football and Formula 1.
+- 🔭 I’m currently working on - <a href="https://github.com/rdotjain/notefy"><img src="https://assets.servatom.com/notefy/logo.png" height="15px"> Notefy</a> .
+- 🌱 I’m currently learning - DSA
+- 👯 I’m looking to collaborate on - Flutter projects
+- 🤔 I’m looking for help with - Flutter SM
+- 📫 How to reach me: harkiratsinghmkkar@yahoo.com
+- 😄 Pronouns: He/Him
+<br> -->
 
-<!-- ![github](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working.gif) -->
-<img align="right" height="275px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
-
-
-- 🌱 I’m currently learning Flutter, Django and Data Structures.
-- 👯 I’m looking to collaborate on Flutter projects!
-- 💬 Looking for guidance on Flutter, DRF.
-- 📫 Contact Me : harkiratsinghmkkar@yahoo.com
-
-
-<!-- ### **Languages and Tools:**  -->
-<!-- <br>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<br/>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<br/>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<br/> -->
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DCYPHERR&theme=dark&layout=compact&langs_count=10&exclude_repo=xbox360-linux)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?DCYPHERR" frameborder="0"></iframe> -->
-
-
-
-
-
-
-
-<img width="500" height="300" align="left" alt="Harkirat's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=DCYPHERR&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
-
-<!-- ![Harkirat's github stats](https://github-readme-stats.vercel.app/api?username=DCYPHERR&show_icons=true&theme=tokyonight&count_private=true)
- -->
-
-<img src = "(https://github-readme-stats.vercel.app/api?username=DCYPHERR&count_private=true&show_icons=true&theme=radical)">
-  <img width="500" height="300" align="left" alt="Harkirat's github stats" 
-          src = "https://github-readme-streak-stats.herokuapp.com/?user=DCYPHERR&theme=black-ice"/>
-
-<!--   <img width="1500" height="auto" align="center" alt="Harkirat's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=DCYPHERR&row=1&column=7&theme=darkhub&margin-w=15e" /> -->
-  
-<!--   <img width="1500" height="auto"  alt="Harkirat's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=DCYPHERR&row=1&column=7&theme=darkhub&margin-w=15e" /> -->
- <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=DCYPHERR&row=7&column=7&theme=darkhub&margin-w=15)]-->
-
+![DCYPHERR's github stats](https://github-readme-stats.vercel.app/api?username=dcypherr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
+<br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcypherr&langs_count=8)](https://github.com/dcypherr/github-readme-stats) -->
+## Connect with me :
+<p align="center">
+<a href="https://medium.com/@Rupanshi-Jain"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/C3RRUPT"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/harkiratsinghmakkar/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/desii.me.rollin"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+</p>
