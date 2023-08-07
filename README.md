@@ -14,7 +14,7 @@
 
 ![DCYPHERR's github stats](https://github-readme-stats.vercel.app/api?username=dcypherr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
 <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kz2olxw5bfl8evpmtb24b35i9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kz2olxw5bfl8evpmtb24b35i9&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]([https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/user/kz2olxw5bfl8evpmtb24b35i9))
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcypherr&langs_count=8)](https://github.com/dcypherr/github-readme-stats) -->
 ## Connect with me :
